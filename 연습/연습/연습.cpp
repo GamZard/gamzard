@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 struct oper {
 	int pri;
 	string o;
