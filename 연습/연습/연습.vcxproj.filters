@@ -15,8 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="연습.cpp">
-      <Filter>리소스 파일</Filter>
-    </ClCompile>
+    <ClCompile Include="연습.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.md" />
   </ItemGroup>
 </Project>
