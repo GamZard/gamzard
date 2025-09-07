@@ -40,7 +40,5 @@
 # debug information files
 *.dwo
 연습/.vs
-연습/연습/x64
-연습/Calc/x64
-연습/ex001/x64
 *.user
+연습/*/x64
